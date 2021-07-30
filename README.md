@@ -1,6 +1,8 @@
 # realapp1
 
 A new Flutter project.
+Needs some improvements.
+Added just some card and their information can be edited anytime.
 
 ## Getting Started
 
